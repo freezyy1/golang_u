@@ -1,0 +1,122 @@
+{"car_company": {
+    "shop1" : {
+        "brands" : {
+            "audi" : true,
+            "bmw" : false,
+            "chevrolet" : false
+        },
+        "address" : "Airport passage 10",
+        "closed" : false,
+        "car1": {
+            "id" : 6,
+            "name" : "audi A8",
+            "in_stock" : true,
+            "generation" : 4,
+            "color" : "green",
+            "mileage" : "2131",
+            "new" : false,
+            "price" : "123123"
+        },
+        "car2": {
+            "id" : 7,
+            "name" : "audi A6",
+            "in_stock" : true,
+            "generation" : 4,
+            "color" : "blue",
+            "mileage" : "2123241",
+            "new" : false,
+            "price" : "12313223"
+        },
+        "car3": {
+            "id" : 8,
+            "name" : "audi Q8",
+            "in_stock" : true,
+            "generation" : 3,
+            "color" : "blue",
+            "mileage" : "2123241",
+            "new" : false,
+            "price" : "123122323243"
+        },
+        "car4": {
+            "id" : 9,
+            "name" : "audi Q6",
+            "in_stock" : true,
+            "generation" : 2,
+            "color" : "yellow",
+            "mileage" : "251",
+            "new" : false,
+            "price" : "2323243"
+        },
+        "car5": {
+            "id" : 10,
+            "name" : "audi A2",
+            "in_stock" : true,
+            "generation" : 2,
+            "color" : "yellow",
+            "mileage" : "0",
+            "new" : true,
+            "price" : "2323243"
+        }
+    },
+    "shop2" : {
+        "brands" : {
+            "audi" : true,
+            "bmw" : true,
+            "chevrolet" : false
+        },
+        "address" : "Airport passage 45",
+        "closed" : false,
+        "car1": {
+            "id" : 1,
+            "name" : "BMW  M3",
+            "in_stock" : true,
+            "generation" : 1,
+            "color" : "black",
+            "mileage" : "0",
+            "new" : true,
+            "price" : "123345323"
+        },
+        "car2": {
+            "id" : 2,
+            "name" : "audi A6",
+            "in_stock" : true,
+            "generation" : 1,
+            "color" : "white",
+            "mileage" : "656",
+            "new" : false,
+            "price" : "123685"
+        },
+        "car3": {
+            "id" : 3,
+            "name" : "BMW X5",
+            "in_stock" : true,
+            "generation" : 6,
+            "color" : "purple",
+            "mileage" : "1234",
+            "new" : false,
+            "price" : "5564354"
+        },
+        "car4": {
+            "id" : 4,
+            "name" : "audi Q3",
+            "in_stock" : true,
+            "generation" : 2,
+            "color" : "white",
+            "mileage" : "251",
+            "new" : false,
+            "price" : "2323243"
+        },
+        "car5": {
+            "id" : 5,
+            "name" : "audi A1",
+            "in_stock" : true,
+            "generation" : 2,
+            "color" : "black",
+            "mileage" : "0",
+            "new" : true,
+            "price" : "12344"
+        }
+        
+    }
+  
+}}
